@@ -79,6 +79,7 @@ For copyright concerns or corrections, please contact:
 
 - X (Twitter): [@jayleecn](https://x.com/jayleecn)
 - 微信公众号：**太白钓雪**，主要记录些价值投资的笔记和思考
+
 ![微信公众号二维码|150](curator/qrcode.jpg)
 
 ## Non-Buffett Letters
