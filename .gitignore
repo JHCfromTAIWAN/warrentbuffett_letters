@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Obsidian
+.obsidian/
+
+# Working files
+buffett_letters_collection_spec.md
+两天时间，我把巴菲特70年的股东信变成了知识图谱.pdf
+
+# Empty directories
+letters-zh/
