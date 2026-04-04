@@ -62,7 +62,16 @@ Examples:
 
 The letters in this collection are copyrighted by Warren E. Buffett and/or Berkshire Hathaway Inc. This collection is compiled for **educational and research purposes only** under fair use principles.
 
-Original letters are publicly available from the sources listed above. If you are the copyright holder and have concerns about this collection, please open an issue.
+Original letters are publicly available from the sources listed above.
+
+## Curator / Contact
+
+Curated by **@jayleecn**
+
+For copyright concerns or corrections, please contact:
+
+- X (Twitter): [@jayleecn](https://x.com/jayleecn)
+- Email: jayleecn@gmail.com
 
 ## Non-Buffett Letters
 
