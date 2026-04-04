@@ -41,12 +41,19 @@ Warren Buffett Letters(1956-2025)/
 
 - **FiscalYear**: The fiscal year the letter covers (e.g., `1957`, `2024`)
 - **Letter(N)**: Sequence number when multiple letters exist for the same fiscal year (omitted if only one)
-- **SigningDate**: Date the letter was signed in `YYYYMMDD` format
+- **SigningDate**: Date the letter was signed, in `YYYYMMDD` format; when only the month is known, `YYYYMM` is used
 
 Examples:
-- `1957_Letter_19580201.pdf` — FY1957 annual letter, signed Feb 1, 1958
+- `1958_Letter_19590211.pdf` — FY1958 annual letter, signed Feb 11, 1959
 - `1962_Letter(2)_19621101.pdf` — FY1962 second letter, signed Nov 1, 1962
-- `2024_Letter(1)_20241125.pdf` — FY2024 special letter, signed Nov 25, 2024
+- `1957_Letter_195802.pdf` — FY1957 annual letter, signed in Feb 1958 (exact day unknown)
+
+> **Note on signing dates**: The signing date is taken from the explicit dateline or signature block in each letter. Two letters do not contain an explicit date, and only the year-month is recorded:
+>
+> - `1957_Letter_195802` — The letter contains no date at all; "February 1958" is inferred from the pattern of adjacent years
+> - `1975_Letter_197604` — The letter ends with only "Warren E. Buffett, Chairman" and no date; the letter references data as of March 31, 1976, so it was written no earlier than April 1976
+>
+> One additional letter, `2014_Letter(2)_20150227` (the 50th anniversary essay *"Berkshire – Past, Present and Future"*), carries no date of its own; the date February 27, 2015 is taken from the companion letter published in the same annual report.
 
 ## Sources
 

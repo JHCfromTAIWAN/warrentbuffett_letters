@@ -5,7 +5,7 @@ Total: 91 documents
 | # | Filename | Summary | Signing Date | Source |
 |---|---------|---------|-------------|--------|
 | 1 | 1956_Agreement_19560501 | The undersigned hereby certify that they have this day entered into a limited partnership, and that: ## I The name of... | 1956-05-01 | https://www.gurufocus.com/news/126451/original-warren-buffett-partnership-agreement-found-here |
-| 2 | 1957_Letter_19580201 | Buffett Partnership Letter - 1957 1957 Letter WARREN E. BUFFETT 5202 Underwood Ave. Omaha, Nebraska SECOND ANNUAL... | 1958-02-01 | https://www.ivey.uwo.ca/media/2975913/buffett-partnership-letters.pdf |
+| 2 | 1957_Letter_195802 | Buffett Partnership Letter - 1957 1957 Letter WARREN E. BUFFETT 5202 Underwood Ave. Omaha, Nebraska SECOND ANNUAL... | 1958-02 | https://www.ivey.uwo.ca/media/2975913/buffett-partnership-letters.pdf |
 | 3 | 1958_Letter_19590211 | Buffett Partnership Letter - 1958 1958 Letter Warren E Buffett 5202 Underwood Ave. Omaha, Nebraska THE GENERAL STOCK... | 1959-02-11 | https://www.ivey.uwo.ca/media/2975913/buffett-partnership-letters.pdf |
 | 4 | 1959_Letter_19600220 | Buffett Partnership Letter - 1959 1959 Letter WARREN E. BUFFETT 5202 Underwood Ave. Omaha, Nebraska The General Stock... | 1960-02-20 | https://www.ivey.uwo.ca/media/2975913/buffett-partnership-letters.pdf |
 | 5 | 1960_Letter_19610130 | Buffett Partnership Letter - 1960 1960 Letter WARREN E. BUFFETT 5202 Underwood Ave. Omaha, Nebraska The General Stock... | 1961-01-30 | https://www.ivey.uwo.ca/media/2975913/buffett-partnership-letters.pdf |
@@ -42,7 +42,7 @@ Total: 91 documents
 | 36 | 1972_Letter_19730316 | To the Stockholders of Berkshire Hathaway Inc.:_ Operating earnings of Berkshire Hathaway during 1972 amounted to a... | 1973-03-16 | 1965-2012_Berkshire_Hathaway_Letters_to_Shareholders.epub |
 | 37 | 1973_Letter_19740329 | To the Stockholders of Berkshire Hathaway Inc.:_ Our financial results for 1973 were satisfactory, with operating... | 1974-03-29 | 1965-2012_Berkshire_Hathaway_Letters_to_Shareholders.epub |
 | 38 | 1974_Letter_19750331 | To the Stockholders of Berkshire Hathaway Inc.:_ Operating results for 1974 overall were unsatisfactory due to the poor... | 1975-03-31 | 1965-2012_Berkshire_Hathaway_Letters_to_Shareholders.epub |
-| 39 | 1975_Letter_19760331 | To the Stockholders of Berkshire Hathaway Inc.:_ Last year, when discussing the prospects for 1975, we stated “the... | 1976-03-31 | 1965-2012_Berkshire_Hathaway_Letters_to_Shareholders.epub |
+| 39 | 1975_Letter_197604 | To the Stockholders of Berkshire Hathaway Inc.:_ Last year, when discussing the prospects for 1975, we stated “the... | 1976-04 | 1965-2012_Berkshire_Hathaway_Letters_to_Shareholders.epub |
 | 40 | 1976_Letter_19770321 | To the Stockholders of Berkshire Hathaway Inc.:_ After two dismal years, operating results in 1976 improved... | 1977-03-21 | 1965-2012_Berkshire_Hathaway_Letters_to_Shareholders.epub |
 | 41 | 1977_Letter_19780314 | To the Stockholders of Berkshire Hathaway Inc.:_ Operating earnings in 1977 of $21,904,000, or $22.54 per share, were... | 1978-03-14 | 1965-2012_Berkshire_Hathaway_Letters_to_Shareholders.epub |
 | 42 | 1978_Letter_19790326 | To the Shareholders of Berkshire Hathaway Inc.: First, a few words about accounting. The merger with Diversified... | 1979-03-26 | https://www.berkshirehathaway.com/letters/1978.html |
